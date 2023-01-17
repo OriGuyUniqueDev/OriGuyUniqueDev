@@ -17,7 +17,7 @@ Check My Repository
 ## Contact
 
 - Email: origuydev@gmail.com
-- LinkedIn: [linkedin.com/in/oriGuyFullStackDeveloper](https://www.linkedin.com/in/ori-guy-fullstack-developer/)
+- LinkedIn: [linkedin.com/in/oriGuyFullStackDeveloper]https://www.linkedin.com/in/ori-guy-fullstack-developer/)
 
 
 
